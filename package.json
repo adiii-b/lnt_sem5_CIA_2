@@ -1,0 +1,16 @@
+{
+  "name": "command-line-task-logger",
+  "version": "1.0.0",
+  "description": "Command-Line Task Logger - Node.js lecture demo project",
+  "main": "Set1/Task6.js",
+  "scripts": {
+    "start": "node Set1/Task6.js",
+    "dev": "nodemon Set1/Task6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
